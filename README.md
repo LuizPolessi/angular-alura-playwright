@@ -1,5 +1,3 @@
-![Jornada Milhas]
-
 # Jornada Milhas
 
 O Jornada Milhas é uma StartUP fictícia. Atualmente, é um site onde podemos buscar por passagens de avisão e até filtrar seus resultados por preços, conexões e companhias. Também conta com as funcionalidades de cadastro, login e edição de perfil.
@@ -7,8 +5,6 @@ O Jornada Milhas é uma StartUP fictícia. Atualmente, é um site onde podemos b
 ## 🔨 Funcionalidades do projeto
 
 O projeto já está bastante completo, mas agora iremos implementar testes E2E (*End-to-end*), a fim de aumentar a confiabilidade e qualidade do sistema.
-
-Acesse o [Figma do Jornada Milhas](https://www.figma.com/file/yz38uH9MvA69Ub3FxNUbTP/Angular-Playwright-%7C-Jornada-Milhas?type=design&node-id=0-1&mode=design).
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
